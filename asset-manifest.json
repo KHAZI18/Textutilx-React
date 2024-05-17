@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Textutilx-React/static/css/main.e970e176.chunk.css",
+    "main.js": "/Textutilx-React/static/js/main.8eef17c3.chunk.js",
+    "main.js.map": "/Textutilx-React/static/js/main.8eef17c3.chunk.js.map",
+    "runtime-main.js": "/Textutilx-React/static/js/runtime-main.2b4b4017.js",
+    "runtime-main.js.map": "/Textutilx-React/static/js/runtime-main.2b4b4017.js.map",
+    "static/js/2.c220b0d7.chunk.js": "/Textutilx-React/static/js/2.c220b0d7.chunk.js",
+    "static/js/2.c220b0d7.chunk.js.map": "/Textutilx-React/static/js/2.c220b0d7.chunk.js.map",
+    "static/js/3.ed8653ad.chunk.js": "/Textutilx-React/static/js/3.ed8653ad.chunk.js",
+    "static/js/3.ed8653ad.chunk.js.map": "/Textutilx-React/static/js/3.ed8653ad.chunk.js.map",
+    "index.html": "/Textutilx-React/index.html",
+    "precache-manifest.2396d912c9e3e9354276b038bb3f603f.js": "/Textutilx-React/precache-manifest.2396d912c9e3e9354276b038bb3f603f.js",
+    "service-worker.js": "/Textutilx-React/service-worker.js",
+    "static/css/main.e970e176.chunk.css.map": "/Textutilx-React/static/css/main.e970e176.chunk.css.map",
+    "static/js/2.c220b0d7.chunk.js.LICENSE.txt": "/Textutilx-React/static/js/2.c220b0d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4b4017.js",
+    "static/js/2.c220b0d7.chunk.js",
+    "static/css/main.e970e176.chunk.css",
+    "static/js/main.8eef17c3.chunk.js"
+  ]
+}
