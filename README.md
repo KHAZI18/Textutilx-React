@@ -55,9 +55,6 @@ To run this project locally, follow these steps:
 
 - **Faizan Khazi -** [GitHub](https://github.com/KHAZI18/).
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
